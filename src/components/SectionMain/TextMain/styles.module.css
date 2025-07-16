@@ -1,0 +1,23 @@
+.TextMain {
+  margin-left: 20px;
+  font-size: 40px;
+  font-weight: bold;
+  min-width: 500px;
+  max-width: 500px;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+
+.parte1Texto {
+  color: #ff3c00;
+  text-shadow: 0px 5px 7px rgba(255, 60, 0, 0.67);
+}
+
+/* Novo estilo geral para palavras destacadas */
+.palavraDestacada {
+  color: #ff3c00;
+  text-shadow: 0px 5px 7px rgba(255, 60, 0, 0.67);
+}
